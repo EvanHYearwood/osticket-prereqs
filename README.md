@@ -69,7 +69,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <li>Install HeidiSQL:
     <ul>
       <li>Open HeidiSQL.</li>
-      <li>Create a new session, root/Password1.</li>
+      <li>Create a new session, root/secret_password.</li>
       <li>Connect to the session.</li>
       <li>Create a database called "osTicket".</li>
     </ul>
