@@ -138,10 +138,3 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <li>Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php.</li>
 </ol>
 
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
